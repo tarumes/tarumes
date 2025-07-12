@@ -1,13 +1,15 @@
 - 👋 Hi, I’m @tarumes
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 tarumes/tarumes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+Tox:
+```
+A75985EC2805C36D72EDC54B6AD28F170DA448D339EFC464DD3C8F8A80514A31AA76A7B8B65A
+```
+
 ```
 -----BEGIN PUBLIC KEY-----
 MIICIjANBgkqhkiG9w0BAQEFAAOCAg8AMIICCgKCAgEA2AVXy7OhntVZVVlyDMrz
